@@ -1,0 +1,1 @@
+export { main } from "../screens/main";
